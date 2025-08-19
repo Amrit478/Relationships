@@ -1,0 +1,7 @@
+🔹 5. Suggested learning path
+
+Start small → add a workflow that compiles/tests your project on each push.
+
+Experiment → add linting, code coverage, artifacts (build outputs).
+
+Deployment → try deploying to a free service (like GitHub Pages or Render).
